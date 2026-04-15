@@ -55,3 +55,26 @@ git push -u <remote> <branch>
 git push
 git pull
 ```
+
+# Git Branching:
+
+To create a new branch:
+```
+git branch -c <branch>
+
+git switch -c <branch>
+
+git checkout -b <branch> 
+```
+
+To switch a branch:
+```
+git switch <branch>
+
+git checkout <branch>
+```
+
+To push a particular branch to remote:
+```
+git push <remote> <branch>
+```
