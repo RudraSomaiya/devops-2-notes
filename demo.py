@@ -2,7 +2,8 @@ def myFunction():
 
     a = 4
     b = 6
-    c = a + b
+    password = '123'
+    c = a +  + password
     return c
 
 
