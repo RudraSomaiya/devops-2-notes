@@ -1,6 +1,11 @@
-def my_Function():
+"""
+This is a demo file
+"""
+
+
+def my_function():
     """
-    This is a test
+    This is a test function
     """
 
     a = 4
@@ -10,4 +15,4 @@ def my_Function():
     return c
 
 
-my_Function()
+my_function()
